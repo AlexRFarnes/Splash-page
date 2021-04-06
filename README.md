@@ -18,9 +18,9 @@ Use Figma plaform to build a Splash page based on the specifications of the mock
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/113652643-bf2cb000-96c6-11eb-8aad-ff718db2fd43.png)
 
-[Demo]()
+[Demo](https://flamboyant-mayer-e81872.netlify.app)
 
 ## Built With
 
